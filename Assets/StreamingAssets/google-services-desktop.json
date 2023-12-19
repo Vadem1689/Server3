@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "704245784064",
+    "firebase_url": "https://test-movement-5c45a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "test-movement-5c45a",
+    "storage_bucket": "test-movement-5c45a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704245784064:android:1e0fe3b6aadcb18f17c2e5",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Test_Server"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8q3nutu--1kyqQXF4r_tmAgkjgmXAPns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
